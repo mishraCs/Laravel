@@ -26,7 +26,7 @@
                       Men's Shirt
                    </h5>
                    <h6>
-                      $75
+                      $80
                    </h6>
                 </div>
              </div>
